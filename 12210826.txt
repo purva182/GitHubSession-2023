@@ -1,4 +1,8 @@
 Name:Purva Golegaonkar
 Div :CSAI SY:A
 Name : Shreya Tarade
-Div 
+Div : IT SY-C
+Name : Savvy Gaikwad
+Div : IT SY C
+Name : Ifra Shaikh
+Div : ST IT C
